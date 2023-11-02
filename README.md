@@ -1,0 +1,2 @@
+# Explorotron Example Repo
+This is an example repository that will be used to highlight some of the features of the [Explorotron Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=YoshiMalaise.explorotron).
