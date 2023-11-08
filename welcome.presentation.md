@@ -122,3 +122,95 @@ The choice to work with regular js source files instead of a custom exercise sou
 
 While the lenses are great for offering students the flexibility of studying content they want to learn how they want to learn it, it can lack a bit of direction if the student doesn't know a good way to approach a topic. Sometimes a little guidance is benificial.
 </section>
+
+<section>
+
+Even when the content that the student is studying hasn't been curated our extension will try to help the student by showing a list of lenses that are applicable to the file with a rated score of how applicable the lens is, and which PRIMM category it matches.
+</section>
+
+<section>
+
+To see this list right-click on any `.js` file and select `Study Lenses > Show recommended Lens`.
+</section>
+
+<section>
+
+You can also right-click on any `.js` file and select `Study Lenses > Open in Suggested Lens` to automatically open the file in the highest ranked lens.
+</section>
+
+<section>
+
+You can also right-click on any `.js` file and select `Study Lenses > Open in Suggested Lens` to automatically open the file in the highest ranked lens.
+</section>
+
+<section>
+
+Finally, right-clicking on any `.js` file and selecting `Study Lenses > Open Suggested Studytour` will open an interactive study tour that will take the learner through multiple applicable lenses to look at the sample file while following a logical difficulty progression.
+</section>
+
+---
+
+<section>
+
+# Curated learning
+
+If the repository to be studied has been specifically curated to work with the Explorotron extension that unlocks even more functionality.
+</section>
+
+<section>
+
+Teachers can create a curated tour that will take you through multiple files using different lenses that they selected for an optimal learning experience. 
+</section>
+
+<section>
+
+Check it out by clicking on the `example-tour.study-tour` file. 
+</section>
+
+<section>
+
+Teachers can also can generate `*.study-quiz` files, which are interactive multiple choice questions that can be single or multiple answer questions about snippets of code.
+</section>
+
+<section>
+
+Check it out by clicking on the `Sample_Quiz.study-quiz` file.
+</section>
+
+---
+
+<section>
+
+# Resources
+
+Click on the Explorotron icon in the left navbar of VS Code to open the commands panel.
+</section>
+
+<section>
+
+In this comment panel you will find some useful buttons, such as the `Micromaterials` button, which will open up a page with a curated list of micromaterials that can be found on the web in order to study up on specific topics. New suggestions to be added to the list are always welcome!
+</section>
+
+<section>
+
+The `De Nepo` button will open the De Nepo website with useful resources such as the `Web Development Curriculum`.
+</section>
+
+<section>
+
+The `Generate Mobile Exercises` button will generate a QR code that can be scanned by the [JSStudyBuddy android application](https://play.google.com/store/apps/details?id=be.ac.vub.wise.jsStudyBuddy) to import exercises based on the current workspace.
+</section>
+
+<section>
+
+The `Create Study Tour` and `Create Quiz` buttons can be used to create tours and quizzes such as the ones that you completed earlier. Note that despite their custom file extensions these are simply json files under the hood and can be checked in to the repository and be versioned using git.
+</section>
+
+---
+
+<section>
+
+# Any questions?
+
+reach out to me at [ymalaise@vub.be](mailto:ymalaise@vub.be?subject=Explorotron) or find us on [GitHub](https://github.com/yoshimalaise/Explorotron)
+</section>
